@@ -1,6 +1,6 @@
 <?php
 /* Made by Unam Sanctam https://github.com/UnamSanctam */
-$config = [];
+$config = [x];
 
 /* Change UnamSancam below to change the password. */
 $config['password'] = 'UnamSanctam';
